@@ -78,7 +78,7 @@ body{
     display: block;
     font-size: 2rem;
     padding: 0px 29px;
-    border-radius: 60px;
+    /* border-radius: 60px; */
     text-decoration: none;
     font-family: 'Baloo Bhaina 2', sans-serif;
 
@@ -144,12 +144,12 @@ body{
     
 }
 .box{
-        border: 2px solid rgb(0, 0, 0);
+        /* border: 2px solid rgb(0, 0, 0); */
         width: 1903px;
         align-items: center;
         padding: 23px;
         margin: 23px;
-        border-radius: 10px;
+        /* border-radius: 10px; */
         background-color: rgb(0, 0, 0);
     }
     .box img{
@@ -158,7 +158,7 @@ body{
         
         margin: auto;
         display: block;
-        border-radius: 10px;
+        /* border-radius: 10px; */
     }
     #services{}
     #services{}
@@ -255,7 +255,7 @@ body{
     #contact-box textarea{
         width: 100%;
         padding: 0.5rem;
-        border-radius: 10px;
+        /* border-radius: 10px; */
         font-size: 1.1rem;
     }
 
@@ -267,7 +267,7 @@ body{
     
     /* utility classes */
     #clients2{
-        border-top: rgb(255 162 162);
+        /* border-top: rgb(255 162 162); */
     }
     .h-primary{
         font-size: 2.8rem;
@@ -317,7 +317,7 @@ body{
     /* background-color: rgba(0, 0, 0, 0.363); */
     padding: 13px;
     /* border-radius: 100px; */
-    border: 1px solid white;
+    /* border: 1px solid white; */
 }
 .add1{
     display: flex !important;
@@ -336,7 +336,7 @@ body{
     padding: 13px;
     background-color: #ffffff;
     /* border-radius: 100px; */
-    border: 1px solid white;
+    /* border: 1px solid white; */
 }
 .addup{
     padding: 13px;
@@ -358,19 +358,19 @@ body{
       .addup1:hover{
     padding: 13px;
     /* border-radius: 100px; */
-    border: 2px solid white;
+    /* border: 2px solid white; */
     cursor: pointer;
     background-color: #ffffff;
 
 }
 .btn{
     padding: 6px 20px;
-    border: 2px solid white;
+    /* border: 2px solid white; */
     background-color: rgb(255, 129, 107);
     color: white;
     margin: 17px;
     font-size: 1.5rem;
-    border-radius: 10px;
+    /* border-radius: 10px; */
     cursor: pointer;
     
 }
